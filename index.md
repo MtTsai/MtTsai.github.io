@@ -6,6 +6,8 @@ $ ls
 
 ### Pages
 * [MTLuffy-agar](http://mttsai.github.io/MTLuffy-agar/)
+* [Kahoot-lottery](http://mttsai.github.io/WG/RNG/)
+* [Dog](http://mttsai.github.io/WG/static/)
 
 ### Appendix
 * [editor on GitHub](https://github.com/MtTsai/MtTsai.github.io/edit/master/index.md)

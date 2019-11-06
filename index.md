@@ -1,3 +1,11 @@
+---
+layout: post
+title: "home page"
+date: 2019-04-07 19:24:59 -0700
+author: MT
+categories: jekyll
+---
+
 # Welcome to MT's Pages
 
 ``` bash
